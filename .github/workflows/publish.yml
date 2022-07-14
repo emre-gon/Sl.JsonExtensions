@@ -1,4 +1,4 @@
-name: undetected chrome publish to nuget
+name: publish to nuget
 on:
   push:
     branches:
